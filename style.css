@@ -1,18 +1,21 @@
 body {
-    background-color: gray;
-    color: darkred;
+    background-color: black;
+    
 }
-
 H1 {
     text-align: center;
     padding-left: 20%;
     padding-right: 20%;
-    padding-top: 10%;
+    padding-top: 1%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:cornflowerblue
 }
 H2 {
+    color: darkslateblue;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center
-
-
+    
 
 
 }
